@@ -3,7 +3,7 @@ server:
   
 spring:
   application:
-    name: store-discovery
+    name: api-discovery
 
 eureka:
   instance:
