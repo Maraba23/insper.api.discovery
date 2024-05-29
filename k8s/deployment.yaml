@@ -17,6 +17,6 @@ spec:
       containers:
         - name: discovery
           # latest trocar nome
-          image: humbertosandmann/discovery:latest
+          image: pasilva2023/discovery:latest
           ports:
             - containerPort: 8761
